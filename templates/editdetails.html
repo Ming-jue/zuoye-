@@ -1,0 +1,58 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="{% static 'bootstrap-3.3.7-dist/css/bootstrap.min.css' %}">
+
+</head>
+<body>
+
+<h1>编辑</h1>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <form action="" method="post">
+
+                {% csrf_token %}
+              <div class="form-group">
+                <label for="title">标题</label>
+                <input type="text" class="form-control" id="title" placeholder="标题" name="title" value="{{ old_obj.title }}">
+              </div>
+              <div class="form-group">
+                <label for="image">封面</label>
+                <input type="text" class="form-control" id="image" placeholder="封面" name="image" value="{{ old_obj.price }}">
+              </div>
+              <div class="form-group">
+                <label for="preview_start_time">预展开始时间</label>
+                <input type="date" class="form-control" id="preview_start_time" name="preview_start_time" value="{{ old_obj.preview_start_time|date:'Y-m-d H:m' }}">
+              </div>
+              <div class="form-group">
+                <label for="preview_end_time">预展结束时间</label>
+                <input type="date" class="form-control" id="preview_end_time" name="preview_end_time" value="{{ old_obj.preview_end_time|date:'Y-m-d H:m' }}">
+              </div>
+              <div class="form-group">
+                <label for="auction_start_time">拍卖开始时间</label>
+                <input type="date" class="form-control" id="auction_start_time" name="auction_start_time" value="{{ old_obj.auction_start_time|date:'Y-m-d H:m' }}">
+              </div>
+              <div class="form-group">
+                <label for="auction_end_time">拍卖结束时间</label>
+                <input type="date" class="form-control" id="auction_end_time" name="auction_end_time" value="{{ old_obj.auction_end_time|date:'Y-m-d H:m' }}">
+              </div>
+               <div class="form-group">
+                <label for="deposit">全场保证金</label>
+                <input type="text" class="form-control" id="deposit" placeholder="全场保证金" name="deposit" value="{{ old_obj.deposit }}">
+              </div>
+              <button type="submit" class="btn btn-success pull-right">提交</button>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

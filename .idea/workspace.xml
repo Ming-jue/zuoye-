@@ -1,7 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ac4ba3d-3e83-4020-a704-b6965b43a7a0" name="Default Changelist" comment="" />
+    <list default="true" id="8ac4ba3d-3e83-4020-a704-b6965b43a7a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ee057ca-1dfd-4e05-a24a-38a713727a1b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/celerys/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/celerys/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/celerys/s3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/migrations/0002_details_deposit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/serializer/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/serializer/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/auction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/celery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/init_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/init_news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/init_topic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/init_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/init_viewer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/处理评论结构化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/js/jQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/css/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/css/loaders.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/img/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/img/lock_icon_copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/img/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/img/user_icon_copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/Particleground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/Treatment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/jquery.mockjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/js/stopExecutionOnTimeout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/plugins/meinv1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/plugins/meinv2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/plugins/meinv3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/sw/sweetalert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stricts/sw/sweetalert.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/adddetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/editdetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/showdetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/pagination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/tencent/msg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web01/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +155,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web01/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="216">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -67,20 +164,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="132" column="11" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="11" />
+            <state relative-caret-position="-1362">
+              <caret line="130" column="68" lean-forward="true" selection-start-line="130" selection-start-column="68" selection-end-line="130" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web01/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="93" column="9" lean-forward="true" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+            <state relative-caret-position="230">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -88,8 +185,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/editdetails.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+            <state relative-caret-position="302">
+              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -98,7 +195,7 @@
         <entry file="file://$PROJECT_DIR$/templates/adddetails.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -106,8 +203,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/showdetails.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="932">
-              <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+            <state relative-caret-position="602">
+              <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -121,6 +218,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,29 +245,29 @@
         <option value="$PROJECT_DIR$/api/views/auth.py" />
         <option value="$PROJECT_DIR$/demos/urls.py" />
         <option value="$PROJECT_DIR$/demos/settings.py" />
-        <option value="$PROJECT_DIR$/api/models.py" />
         <option value="$PROJECT_DIR$/templates/adddetails.html" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-        <option value="$PROJECT_DIR$/web01/urls.py" />
         <option value="$PROJECT_DIR$/web01/views.py" />
         <option value="$PROJECT_DIR$/templates/showdetails.html" />
         <option value="$PROJECT_DIR$/templates/editdetails.html" />
+        <option value="$PROJECT_DIR$/web01/urls.py" />
+        <option value="$PROJECT_DIR$/api/models.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="x" value="42" />
+    <option name="y" value="37" />
+    <option name="width" value="1390" />
     <option name="height" value="803" />
   </component>
   <component name="ProjectId" id="1WPQ8SKiz1Lcr00IG7qRPdyKA2k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,10 +305,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -423,17 +525,18 @@
       <workItem from="1581314692071" duration="1966000" />
       <workItem from="1581316948173" duration="13613000" />
       <workItem from="1581331862361" duration="4997000" />
+      <workItem from="1581382814225" duration="1243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88744000" />
+    <option name="totallyTimeSpent" value="89987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="23" width="1440" height="803" extended-state="0" />
+    <frame x="42" y="37" width="1390" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11516452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12091988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -632,60 +735,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_details">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="6475a541-ab0a-45d2-8cbd-641b2d447da9">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_newdetails">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="6475a541-ab0a-45d2-8cbd-641b2d447da9">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_newsfavorrecord">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="6475a541-ab0a-45d2-8cbd-641b2d447da9">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_acution">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="6475a541-ab0a-45d2-8cbd-641b2d447da9">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_browse">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="6475a541-ab0a-45d2-8cbd-641b2d447da9">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_commentrecord">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="6475a541-ab0a-45d2-8cbd-641b2d447da9">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_details" />
+    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_newdetails" />
+    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_newsfavorrecord" />
+    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_acution" />
+    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_browse" />
+    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_commentrecord" />
     <entry file="file://$PROJECT_DIR$/utils/tencent/msg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-563">
@@ -729,15 +784,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_userinfo">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="176a8fa4-2538-4f1c-97d4-86d59cbcedf5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://3ab623fc-8273-4bfd-8680-92049bc46096/schema/main/table/api_userinfo" />
     <entry file="file://$PROJECT_DIR$/demos/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -781,15 +828,7 @@
     <entry file="file://$PROJECT_DIR$/api/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://01024431-ba46-4a3f-a705-2f07a218a28f/schema/main/table/api_details">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="176a8fa4-2538-4f1c-97d4-86d59cbcedf5">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://01024431-ba46-4a3f-a705-2f07a218a28f/schema/main/table/api_details" />
     <entry file="file://$PROJECT_DIR$/demos/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -832,8 +871,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web01/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -842,36 +881,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/showdetails.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="932">
-          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/editdetails.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        <state relative-caret-position="602">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/adddetails.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/models.py">
+    <entry file="file://$PROJECT_DIR$/templates/editdetails.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="132" column="11" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="11" />
+        <state relative-caret-position="302">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web01/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="93" column="9" lean-forward="true" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        <state relative-caret-position="230">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1362">
+          <caret line="130" column="68" lean-forward="true" selection-start-line="130" selection-start-column="68" selection-end-line="130" selection-end-column="68" />
         </state>
       </provider>
     </entry>

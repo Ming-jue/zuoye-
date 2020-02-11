@@ -122,6 +122,7 @@ class Details(models.Model):
     looks = models.IntegerField(verbose_name='浏览次数',default=0)
     follow = models.ForeignKey(verbose_name='关注',to=UserInfo)
     image = models.CharField(verbose_name='拍品图',max_length=64)
+    # Filefield =
     priceup = models.IntegerField(verbose_name='加价幅度',default=100)
 
     preview_start_time = models.DateTimeField(verbose_name='预展开始时间')
